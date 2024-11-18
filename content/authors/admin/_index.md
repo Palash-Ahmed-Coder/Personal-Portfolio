@@ -1,17 +1,15 @@
 ---
 # Display name
-title: 吳健雄
+title: Palash Ahmed
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Palash Ahmed
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Palash
+last_name: Ahmed
 
-# Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +18,167 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Web Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: FreeCodeCamp
+    url: https://www.freecodecamp.org learn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'palashahmed180@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/facebook
+    url: https://www.facebook.com/palash.ahmed.1238292?mibextid=ZbWKwL
+  - icon: brands/messenger
+    url: https://m.me/palash.ahmed.1238292
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/Palash-Ahmed-Coder
+  - icon: brands/whatsapp
+    url: https://wa.me/qr/EOAAJWFROLBFI1
 
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Matchine Learning
+  - Web Development
+  - Database Management
+  - Graphics Design
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Department of Computer Science and Engineering(BSc)
+    institution: Jahangirnagar University
+    date_start: 2020-03-10
+    date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      A passionate 3rd-year CSE student at Jahangirnagar University with experience in various programming languages and front-end development projects, aspiring to become a skilled web developer.
+  - area: Higher Secondary School Certificate(H.S.C)
+    institution: Government Debendra College,Manikganj
+    date_start: 2017-07-01
+    date_end: 2019-05-15
     summary: |
-      GPA: 3.8/4.0
+      GPA: 5.00/5.00
+      Deparment: Science
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Bangla
+      - English
+      - Information and Communication Technology
+      - Physics
+      - Chemistry
+      - Biology
+      - Higher Mathematics 
+  - area: Secondary School Certificate(S.S.c)
+    institution: Lemubari B. S. High School
+    date_start: 2015-01-01
+    date_end: 2017-03-31
     summary: |
-      GPA: 3.4/4.0
-      
+      GPA: 5.00/5.00
+      Department: Science
+
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Bangla
+      - English
+      - General Mathematics
+      - Information and Communication Technology
+      - Physics
+      - Chemistry
+      - Biology
+      - Higher Mathematics 
+      - Bangladesh and Global Studies
+      - Physical Education
+      - Career Education
+  - area: Junior School Certificate(J.S.C)
+    Institution: Lemubari B. S. High School
+    date_start: 2014-01-01
+    date_end: 2014-11-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 5.00/5.00
+work:
+  - position: Member, Lemubari B.S. High School Science Club
+    date_start: 2011-01-15
+    summary: |2-
+      As a member of the Lemubari B.S. High School Science Club, I actively participate in science fair programs where I present and demonstrate various science projects. This involvement helps enhance my practical knowledge, teamwork skills, and passion for scientific exploration.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Codding Languages
+        description: 'C,C++,Java'
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
+      - name: Web Development
+        description: 'HTML,CSS,JavaScript,React'
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
+      - name: Frameworks
+        description: 'Bootstrap,Tailwind CSS,Figma'
         percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Travelling
+        description: 'Discover new places, cultures, and cuisines while broadening your perspectives and creating lasting memories.'
         percent: 100
-        icon: cat
+        icon: person-simple-walk
+      - name: Reading
+        description: 'Explore books, articles, or online content to gain knowledge, escape into stories, and enhance your imagination.'
+        percent: 100
+        icon: book
+      - name: Gaming
+        description: 'Play video games, board games, or online games for entertainment, strategy building, and relaxation.'
+        percent: 100
+        icon: laptop
+      - name: Sports
+        description: 'Engage in physical activities like football, badminton, or running to stay fit, improve skills, and enjoy teamwork or competition.'
+        percent: 80
+        icon: football
+      - name: Technology
+        description: 'Coding, building gadgets, or exploring new software.'
+        percent: 80
+        icon: keyboard
+      - name: Gardening
+        description: 'Cultivate plants, flowers, or vegetables to relax, connect with nature, and enjoy the rewards of your efforts.'
+        percent: 100
+        icon: tree
       - name: Photography
-        description: ''
+        description: 'Capture moments, landscapes, or creative compositions to tell stories, express creativity, and preserve memories.'
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Bangla
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 80
+  - name: Hindi
+    percent: 80
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Teacher's Award for Excellence
+    date: '2017-05-10'
+    awarder: school
+    icon: crest
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      A Crest for SSC Result is a symbol of academic excellence awarded to students for outstanding performance in the Secondary School Certificate exams. It typically features a shield or emblem, representing achievement and dedication to studies.
+  
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A student of Computer Science and Engineering (CSE)
+
+I am an aspiring web developer with a passion for creating interactive and user-friendly websites. My studies in CSE have provided me with a solid foundation in programming, algorithms, and web technologies. I enjoy learning new frameworks and languages to enhance my skills and build dynamic applications.
