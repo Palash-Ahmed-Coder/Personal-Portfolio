@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Front End Developing With FreeCodeCampS
 cms_exclude: true
 #url: talk
 

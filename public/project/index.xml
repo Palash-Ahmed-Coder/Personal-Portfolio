@@ -2,54 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:62279/Personal-Portfolio/project/</link>
+      <atom:link href="http://localhost:62279/Personal-Portfolio/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:62279/Personal-Portfolio/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>http://localhost:62279/Personal-Portfolio/project/</link>
     </image>
     
     <item>
       <title>TicTacToe Game</title>
-      <link>http://localhost:1313/project/tictactoe/</link>
+      <link>http://localhost:62279/Personal-Portfolio/project/tictactoe/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tictactoe/</guid>
+      <guid>http://localhost:62279/Personal-Portfolio/project/tictactoe/</guid>
       <description>&lt;p&gt;Tic Tac Toe is a classic two-player strategy game played on a 3x3 grid. Players take turns marking a space in the grid with their symbol (usually &amp;ldquo;X&amp;rdquo; or &amp;ldquo;O&amp;rdquo;). The objective is to be the first to align three of their symbols horizontally, vertically, or diagonally. If all nine spaces are filled without a winner, the game ends in a draw. It&amp;rsquo;s a simple yet engaging game that helps develop critical thinking and strategy skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/project/portfolio/</link>
+      <link>http://localhost:62279/Personal-Portfolio/project/portfolio/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/portfolio/</guid>
+      <guid>http://localhost:62279/Personal-Portfolio/project/portfolio/</guid>
       <description>&lt;p&gt;A Portfolio is a personal collection showcasing an individual’s skills, achievements, and projects. It highlights work samples, professional experiences, and accomplishments, often tailored to a specific field like web development, graphic design, or writing. A portfolio serves as a dynamic resume, allowing others to explore one’s expertise and creativity in greater depth.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Product Landing Page</title>
-      <link>http://localhost:1313/project/product-landing/</link>
+      <link>http://localhost:62279/Personal-Portfolio/project/product-landing/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/product-landing/</guid>
+      <guid>http://localhost:62279/Personal-Portfolio/project/product-landing/</guid>
       <description>&lt;p&gt;A Product Landing Page is a focused web page designed to showcase a specific product or service. It highlights key features, benefits, and unique selling points, often including visuals, testimonials, and a call-to-action button to encourage users to make a purchase or learn more. The goal is to drive engagement and conversions effectively.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Technical Documentation Page</title>
-      <link>http://localhost:1313/project/technical-documentation-page/</link>
+      <link>http://localhost:62279/Personal-Portfolio/project/technical-documentation-page/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/technical-documentation-page/</guid>
+      <guid>http://localhost:62279/Personal-Portfolio/project/technical-documentation-page/</guid>
       <description>&lt;p&gt;A Technical Documentation Page provides clear and structured information about a specific technology, software, or process. It includes detailed explanations, code snippets, usage instructions, and examples to help users understand and implement the subject effectively. This type of page is essential for developers, engineers, and technical users seeking guidance or reference materials.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tribute Page</title>
-      <link>http://localhost:1313/project/tribute-page/</link>
+      <link>http://localhost:62279/Personal-Portfolio/project/tribute-page/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tribute-page/</guid>
+      <guid>http://localhost:62279/Personal-Portfolio/project/tribute-page/</guid>
       <description>&lt;p&gt;A Tribute Page for Kazi Nazrul Islam honors the life and legacy of the &amp;ldquo;Rebel Poet&amp;rdquo; of Bengal. It highlights his contributions as a poet, writer, musician, and revolutionary. Known for his powerful works promoting equality, freedom, and social justice, Kazi Nazrul Islam&amp;rsquo;s writings remain a source of inspiration. The page celebrates his achievements, including his patriotic songs, literary masterpieces, and his role in shaping modern Bengali culture.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>survey form</title>
+      <link>http://localhost:62279/Personal-Portfolio/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:62279/Personal-Portfolio/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
   </channel>
