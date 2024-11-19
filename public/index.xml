@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Academic CV Theme</title>
-    <link>http://localhost:62279/Personal-Portfolio/</link>
-      <atom:link href="http://localhost:62279/Personal-Portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hugo Academic CV Theme</description>
+    <title>Palash Afmed - Portfolio</title>
+    <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/</link>
+      <atom:link href="https://palash-ahmed-coder.github.io/Personal-Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Palash Afmed - Portfolio</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:62279/Personal-Portfolio/media/icon_hu7729264130191091259.png</url>
-      <title>Hugo Academic CV Theme</title>
-      <link>http://localhost:62279/Personal-Portfolio/</link>
+      <url>https://palash-ahmed-coder.github.io/Personal-Portfolio/media/icon_hu7729264130191091259.png</url>
+      <title>Palash Afmed - Portfolio</title>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/</link>
     </image>
     
     <item>
       <title>TicTacToe Game</title>
-      <link>http://localhost:62279/Personal-Portfolio/project/tictactoe/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/tictactoe/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/project/tictactoe/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/tictactoe/</guid>
       <description>&lt;p&gt;Tic Tac Toe is a classic two-player strategy game played on a 3x3 grid. Players take turns marking a space in the grid with their symbol (usually &amp;ldquo;X&amp;rdquo; or &amp;ldquo;O&amp;rdquo;). The objective is to be the first to align three of their symbols horizontally, vertically, or diagonally. If all nine spaces are filled without a winner, the game ends in a draw. It&amp;rsquo;s a simple yet engaging game that helps develop critical thinking and strategy skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:62279/Personal-Portfolio/projects/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/projects/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:62279/Personal-Portfolio/project/portfolio/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/portfolio/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/project/portfolio/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/portfolio/</guid>
       <description>&lt;p&gt;A Portfolio is a personal collection showcasing an individual’s skills, achievements, and projects. It highlights work samples, professional experiences, and accomplishments, often tailored to a specific field like web development, graphic design, or writing. A portfolio serves as a dynamic resume, allowing others to explore one’s expertise and creativity in greater depth.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Product Landing Page</title>
-      <link>http://localhost:62279/Personal-Portfolio/project/product-landing/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/product-landing/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/project/product-landing/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/product-landing/</guid>
       <description>&lt;p&gt;A Product Landing Page is a focused web page designed to showcase a specific product or service. It highlights key features, benefits, and unique selling points, often including visuals, testimonials, and a call-to-action button to encourage users to make a purchase or learn more. The goal is to drive engagement and conversions effectively.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Technical Documentation Page</title>
-      <link>http://localhost:62279/Personal-Portfolio/project/technical-documentation-page/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/technical-documentation-page/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/project/technical-documentation-page/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/technical-documentation-page/</guid>
       <description>&lt;p&gt;A Technical Documentation Page provides clear and structured information about a specific technology, software, or process. It includes detailed explanations, code snippets, usage instructions, and examples to help users understand and implement the subject effectively. This type of page is essential for developers, engineers, and technical users seeking guidance or reference materials.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tribute Page</title>
-      <link>http://localhost:62279/Personal-Portfolio/project/tribute-page/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/tribute-page/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/project/tribute-page/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/tribute-page/</guid>
       <description>&lt;p&gt;A Tribute Page for Kazi Nazrul Islam honors the life and legacy of the &amp;ldquo;Rebel Poet&amp;rdquo; of Bengal. It highlights his contributions as a poet, writer, musician, and revolutionary. Known for his powerful works promoting equality, freedom, and social justice, Kazi Nazrul Islam&amp;rsquo;s writings remain a source of inspiration. The page celebrates his achievements, including his patriotic songs, literary masterpieces, and his role in shaping modern Bengali culture.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:62279/Personal-Portfolio/post/get-started/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/post/get-started/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -148,17 +148,17 @@
     
     <item>
       <title>survey form</title>
-      <link>http://localhost:62279/Personal-Portfolio/project/pandas/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/project/pandas/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:62279/Personal-Portfolio/post/second-brain/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/post/second-brain/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -268,9 +268,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:62279/Personal-Portfolio/post/data-visualization/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/post/data-visualization/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -281,7 +281,7 @@
 
 
 
-&lt;div id=&#34;chart-429517683&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-168947352&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -299,7 +299,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-429517683&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-168947352&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -478,9 +478,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:62279/Personal-Portfolio/post/teach-courses/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/post/teach-courses/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -533,7 +533,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:62279/Personal-Portfolio/Personal-Portfolio/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://palash-ahmed-coder.github.io/Personal-Portfolio/Personal-Portfolio/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -592,17 +592,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:62279/Personal-Portfolio/experience/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/experience/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:62279/Personal-Portfolio/teaching/js/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/teaching/js/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -649,7 +649,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:62279/Personal-Portfolio/Personal-Portfolio/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://palash-ahmed-coder.github.io/Personal-Portfolio/Personal-Portfolio/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -726,9 +726,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:62279/Personal-Portfolio/teaching/python/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/teaching/python/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -775,7 +775,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:62279/Personal-Portfolio/Personal-Portfolio/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://palash-ahmed-coder.github.io/Personal-Portfolio/Personal-Portfolio/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -852,9 +852,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:62279/Personal-Portfolio/post/project-management/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/post/project-management/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -927,10 +927,10 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:62279/Personal-Portfolio/publication/preprint/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:62279/Personal-Portfolio/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://palash-ahmed-coder.github.io/Personal-Portfolio/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -943,9 +943,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:62279/Personal-Portfolio/publication/journal-article/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/publication/journal-article/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -964,9 +964,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:62279/Personal-Portfolio/publication/conference-paper/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/publication/conference-paper/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -985,9 +985,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Exercise with FreeCodeCamp</title>
-      <link>http://localhost:62279/Personal-Portfolio/event/example/</link>
+      <link>https://palash-ahmed-coder.github.io/Personal-Portfolio/event/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62279/Personal-Portfolio/event/example/</guid>
+      <guid>https://palash-ahmed-coder.github.io/Personal-Portfolio/event/example/</guid>
       <description></description>
     </item>
     

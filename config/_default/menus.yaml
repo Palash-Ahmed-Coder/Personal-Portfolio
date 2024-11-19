@@ -32,9 +32,4 @@ main:
   #- name: Teaching
   #  url: teaching/
     #weight: 
-  - name: Ressume
-    url: ressume/
-    weight: 40
-  - name: Contact
-    url: contact/
-    weight: 100
+  
